@@ -1,1 +1,1 @@
-Hola! Soy estudiante de desarrollo de software en el tercer ciclo, con una sólida base en programación y un gran interés en el análisis de datos. Me apasiona extraer insights valiosos de grandes volúmenes de datos y utilizar este conocimiento para apoyar la toma de decisiones estratégicas. Actualmente, estoy desarrollando mis habilidades en Python Y SQL
+
